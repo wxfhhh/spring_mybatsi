@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SpringMybatsiApplicationTests {
-
+//test git test
 	@Test
 	void contextLoads() {
 	}
