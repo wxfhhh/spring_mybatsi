@@ -10,6 +10,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @MapperScan("com.spring_mybatsi.mapper")
 public class SpringMybatsiApplication {
 	public static void main(String[] args) {
+		//test push异常 版本号不同
 		SpringApplication.run(SpringMybatsiApplication.class, args);
 	}
 
